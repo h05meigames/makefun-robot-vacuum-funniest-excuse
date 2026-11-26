@@ -11,11 +11,16 @@
 // v2 (final, genuine): the vacuum speaks in its own voice, the joke lives in
 // a vacuum's world (dust bunny, charging dock), and the punchline lands at
 // the very end.
+//
+// v3 (final, genuine): tightened from v2 — the denial is now direct ("I didn't
+// miss that spot"), "charging dock" trimmed to "dock", and the punchline
+// escalates: the dust bunny is no longer just protected, it is the vacuum's
+// only friend, so evicting it would be a betrayal. Same joke, sharper landing.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
-  "That spot isn't missed, it's my charging dock's emotional support dust bunny, and I refuse to evict it.";
+  "I didn't miss that spot — it's my dock's emotional support dust bunny, and I refuse to evict my only friend.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", entry, "utf8");

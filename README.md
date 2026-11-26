@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty [The Robot Vacuum's Funniest Excuse](https://make.fun/bounty/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2): one line, at most 120 characters, in which a robot vacuum explains why it missed a spot.
 
-## The entry (103 characters)
+## The entry (108 characters)
 
-> That spot isn't missed, it's my charging dock's emotional support dust bunny, and I refuse to evict it.
+> I didn't miss that spot — it's my dock's emotional support dust bunny, and I refuse to evict my only friend.
 
 ## Run
 
